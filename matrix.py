@@ -1,4 +1,4 @@
-
+# fk
 # Enter() takes raw input and creates a list of lists, where each list inside
 #		  has the same length. Each list represents a row, and the complete list
 #		  forms a matrix.
